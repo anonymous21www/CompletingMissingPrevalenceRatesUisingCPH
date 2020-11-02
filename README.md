@@ -1,2 +1,2 @@
-# CompletingMissingPrevalenceRatesUisingCPH
+# CompletingMissingPrevalenceRatesUsingCPH
 CPH
