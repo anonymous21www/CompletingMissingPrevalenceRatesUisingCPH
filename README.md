@@ -1,6 +1,6 @@
 # CompletingMissingPrevalenceRatesUsingCPH
 The source code for Completing Missing Prevalence Rates for Multiple Chronic Diseases by Jointly Leveraging Both Intra- and Inter-Disease Population Health Data Correlations    
-Thank you for your interest in our work, we are only uploading the model here as it is under review. The rest of the code will be released soon after review.
+Thank you for your interest in our work, we have uploaded the code for all models here.
 
 ## Requirements
 Install python, tensorflow. We use Python 3.7, Tensorflow 1.14.0.
